@@ -1,0 +1,8 @@
+.env
+
+.DS_Store
+
+/node_modules
+
+#client ignores
+/client/node_modules
